@@ -8,6 +8,6 @@
 * ...
 
 ### Connect me via:
-[facebook](https://www.facebook.com/duyhp.SE/)
+[facebook](https://www.facebook.com/duyhp.se/)
 
 #### © 2020 by duyhp-fpt
