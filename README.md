@@ -3,12 +3,8 @@
 ### This project is Hana_Shop. Includes basic functions:
 ### - Admin: add, delete, edit
 ### - User: buy
-### You will find in this repository:
-* .gitignore file to tell Git tool the things will be uploaded or not
-* README.md - this file itself to show the home-page of a repo
-* ...
-
+![image](https://user-images.githubusercontent.com/74224089/113498828-c626b780-953a-11eb-88f4-7e2664b12ed7.png)
 ### Connect me via:
-[facebook](https://www.facebook.com/duyhp.se/)
+[facebook_Huynh Phuc Duy](https://www.facebook.com/duyhp.se/)
 
-#### © 2020 by duyhp-fpt
+#### © 2021 by duyhp-fpt
